@@ -1,0 +1,5 @@
+  {
+    "name": "Termoweb",
+    "render_readme": true,
+    "domains": ["termoweb", "climate"]
+  }

@@ -1,0 +1,15 @@
+{
+  "domain": "termoweb",
+  "name": "Termoweb",
+  "codeowners": [
+    "@danfau"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/DanFaudemer/hacs-termoweb",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": [
+    "termoweb==0.1.2"
+  ]
+}
