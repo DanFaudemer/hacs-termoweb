@@ -10,6 +10,6 @@
   "integration_type": "hub",
   "iot_class": "cloud_polling",
   "requirements": [
-    "termoweb==0.1.2"
+    "termoweb==0.1.3"
   ]
 }
